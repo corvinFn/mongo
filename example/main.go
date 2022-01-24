@@ -1,9 +1,9 @@
 package main
 
 import (
-	"mongo"
 	"sync/atomic"
 
+	"github.com/corvinFn/mongo"
 	"github.com/globalsign/mgo/bson"
 )
 
